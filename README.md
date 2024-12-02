@@ -1,0 +1,1 @@
+This project demonstrates how to track a user's location via the frontend and share this location in real-time with all users connected to the server. It provides a foundational understanding of how location-based web applications work and the essential components required to make them function seamlessly.
